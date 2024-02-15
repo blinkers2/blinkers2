@@ -2,9 +2,9 @@
 <h3 align="center">Junior Fullstack Developer</h3>
 <h2 align="center"> I recently began learning programming and discovered that I enjoy it. I have a wealth of life experience, numerous successes in both my personal and professional life, but now I am focusing solely on programming. </h2>
 
-<h2 align="center">- 📫 How to reach me **b.bialokozowicz@gmail.com** </h2>
+<h2 align="center">- 📫 How to reach me b.bialokozowicz@gmail.com </h2>
 
-<h2 align="center">- 📄 More about me **https://www.linkedin.com/in/bartosz-bia%C5%82okozowicz-b299b1257/** </h2>
+<h2 align="center">- 📄 More about me https://www.linkedin.com/in/bartosz-bia%C5%82okozowicz-b299b1257/ </h2>
 
 <h2 align="center">- My favourites are <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </h2>
 
