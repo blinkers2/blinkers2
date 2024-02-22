@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bartosz</h1>
+<h1 align="center">Hi 👋, I'm Bartosz Białokozowicz</h1>
 <h3 align="center">Junior Fullstack Developer</h3>
 <h2 align="center"> I recently began learning programming and discovered that I enjoy it. I have a wealth of life experience, numerous successes in both my personal and professional life, but now I am focusing solely on programming. </h2>
 
@@ -7,6 +7,28 @@
 <h2 align="center">- 📄 More about me https://www.linkedin.com/in/bartosz-bia%C5%82okozowicz-b299b1257/ </h2>
 
 <h2 align="center">- My favourites are <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </h2>
+
+<h2 align="center">About My Project: CheckedApp</h2>
+
+<p align="center">
+  I recently completed a web application project, <strong>CheckedApp</strong>, in collaboration with two other developers. My primary role focused on backend development, where I was tasked with implementing essential features such as:
+  <ul>
+    <li><strong>Identity</strong> for user management,</li>
+    <li><strong>Entity Framework</strong> for data access,</li>
+    <li><strong>JWT Bearer Token</strong> for secure authentication.</li>
+  </ul>
+  Additionally, I played a key role in integrating the backend with a PostgreSQL database and connecting it to the frontend, ensuring a cohesive and functional application.
+</p>
+
+<p align="center">
+  As a <strong>C# Developer</strong> specializing in backend technologies, I am confident in my ability to build robust and scalable solutions. My expertise is not limited to the backend; I also have experience with frontend technologies, including:
+  <ul>
+    <li><strong>Axios</strong> for HTTP requests, and</li>
+    <li><strong>React</strong> for building user interfaces.</li>
+  </ul>
+  This dual focus enables me to contribute effectively to full-stack development projects, promoting seamless integration between backend logic and frontend presentation.
+</p>
+
 
 <p align="left">
 </p>
