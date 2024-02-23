@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bartosz Białokozowicz</h1>
 <h3 align="center">Junior Fullstack Developer</h3>
-<h2 align="center"> I recently began learning programming and discovered that I enjoy it. I have a wealth of life experience, numerous successes in both my personal and professional life, but now I am focusing solely on programming. </h2>
+<h2 align="center"> With a wealth of life experience and numerous successes in both my personal and professional spheres, I am now channeling my focus exclusively towards programming. This pivot reflects my dedication to mastering this field, leveraging my comprehensive background to enrich my coding skills and contribute innovatively to the tech industry.</h2>
 
 <h2 align="center">- 📫 How to reach me b.bialokozowicz@gmail.com </h2>
 
