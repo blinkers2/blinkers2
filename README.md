@@ -28,7 +28,6 @@
   </ul>
   This dual focus enables me to contribute effectively to full-stack development projects, promoting seamless integration between backend logic and frontend presentation.
 </p>
-https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg
 
 <p align="left">
 </p>
