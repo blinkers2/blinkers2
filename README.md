@@ -11,7 +11,7 @@
 <h2 align="center">About My Project: CheckedApp</h2>
 
 <p align="center">
-  I recently completed a web application project, <strong>CheckedApp</strong>, in collaboration with two other developers. My primary role focused on backend development, where I was tasked with implementing essential features such as:
+  I recently completed a web application project - now learning on it how to deploy it on Azure - https://checkedappfront.azurewebsites.net/ , <strong>CheckedApp</strong>, in collaboration with two other developers. My primary role focused on backend development, where I was tasked with implementing essential features such as:
   <ul>
     <li><strong>Identity</strong> for user management,</li>
     <li><strong>Entity Framework</strong> for data access,</li>
